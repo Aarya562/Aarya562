@@ -1,57 +1,43 @@
 
-<!-- HEADER BANNER -->
+<!-- TOP BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:514A9D,100:9B8AFF&height=160&section=header" width="100%" />
 
-<!-- INTRODUCTION -->
 <h1 align="center">Aarya Nagpure</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=9B8AFF&center=true&vCenter=true&width=600&lines=Diploma+in+Artificial+Intelligence+%26+Machine+Learning;AI%2FML+Enthusiast;Python+Developer;Robotics+Explorer" alt="Typing SVG" />
 </p>
 
-<!-- EDUCATION BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Qualification-Diploma%20AIML-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Institution-K.K.%20Wagh%20Polytechnic-7B42F6?style=for-the-badge" />
 </p>
 
-<!-- SOCIAL BUTTONS -->
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VIEW-555555?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/EMAIL-REACH%20OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/Aarya562">
     <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<!-- PROFILE COUNTERS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aarya562&style=flat&color=7B42F6&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/Aarya562?style=flat&color=7B42F6&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/Aarya562/Underwater-ROV?style=flat&color=7B42F6&label=ROV+STARS" />
 </p>
 
 ---
 
 ## About
 
-I'm an Artificial Intelligence and Machine Learning diploma graduate from **K.K. Wagh Polytechnic, Nashik**, passionate about developing practical solutions through AI, software development and robotics.
+I'm a Diploma graduate in Artificial Intelligence and Machine Learning from **K.K. Wagh Polytechnic, Nashik**.
 
-My interests include Machine Learning, Computer Vision, Data Analytics, Embedded Systems and intelligent applications.
+I enjoy developing practical technology solutions using AI, Machine Learning, Computer Vision, Robotics and Software Development.
 
 - 🎓 Diploma in Artificial Intelligence and Machine Learning
-- 🤖 Exploring AI, Machine Learning and Computer Vision
-- 🌊 Developing underwater robotics projects
-- 💻 Interested in Python and software development
+- 🤖 Interested in Machine Learning and Computer Vision
+- 🌊 Exploring Robotics and Underwater Technology
+- 💻 Developing software and AI-based applications
 - 🏆 3rd Place in a National-Level Hackathon at IIM Indore
-- 🚀 Building practical technology projects
+- 🚀 Passionate about building real-world technology solutions
 
 ---
 
@@ -142,7 +128,7 @@ An adaptive network threat analysis system using graph-based data structures to 
 
 ### 04. E-commerce Web Application
 
-A Django-based web application for product browsing, user management and online shopping workflows.
+A web-based application developed for product browsing, user management and online shopping workflows.
 
 **Technologies:** Python · Django · HTML · CSS · SQL
 
@@ -190,14 +176,6 @@ Worked on a project focused on **Crowd Density Prediction and Stampede Predictio
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aarya562&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## Current Focus
 
 - Advancing Machine Learning and Computer Vision skills
@@ -209,9 +187,7 @@ Worked on a project focused on **Crowd Density Prediction and Stampede Predictio
 ---
 
 <p align="center">
-  <b>Building ideas into intelligent solutions.</b>
+  <b>Building ideas into intelligent solutions, one project at a time.</b>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:514A9D,100:9B8AFF&height=100&section=footer" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:514A9D,100:9B8AFF&height=100&section=footer" width="100%" />
