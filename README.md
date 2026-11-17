@@ -17,6 +17,12 @@
   <a href="https://github.com/Aarya562">
     <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://aarya562.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-7B42F6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aarya-nagpure-4a0584450/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
