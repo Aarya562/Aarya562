@@ -1,141 +1,193 @@
 
-<div align="center">
+<!-- TOP BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:514A9D,100:9B8AFF&height=160&section=header" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=180&section=header&text=Aarya%20Nagpure&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<h1 align="center">Aarya Nagpure</h1>
 
-<h3>AI & ML Enthusiast | Python Developer | Aspiring Machine Learning Engineer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=9B8AFF&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Python+Developer;Robotics+Explorer" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;Exploring+AI+%26+Machine+Learning;Developing+Real-World+Projects;Learning+and+Growing+Every+Day" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Qualification-Diploma%20AIML-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Institution-K.K.%20Wagh%20Polytechnic-7B42F6?style=for-the-badge" />
+</p>
 
-<p>
+<p align="center">
   <a href="https://github.com/Aarya562">
-    <img src="https://img.shields.io/badge/GitHub-Aarya562-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/Aarya562?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-6A0DAD?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aarya562&style=flat&color=7B42F6&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Aarya562?style=flat&color=7B42F6&label=FOLLOWERS" />
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-- Passionate about Artificial Intelligence and Machine Learning.
-- Interested in developing practical, real-world technology solutions.
-- Exploring Python, Data Structures, and Web Development.
-- Experienced in building academic and hackathon projects.
-- Always eager to learn new technologies and improve my skills.
+I'm a Diploma graduate in Artificial Intelligence and Machine Learning from **K.K. Wagh Polytechnic, Nashik**.
+
+I enjoy developing practical technology solutions using AI, Machine Learning, Computer Vision, Robotics and Software Development.
+
+- 🎓 Diploma in Artificial Intelligence and Machine Learning
+- 🤖 Interested in Machine Learning and Computer Vision
+- 🌊 Exploring Robotics and Underwater Technology
+- 💻 Developing software and AI-based applications
+- 🏆 3rd Place in a National-Level Hackathon at IIM Indore
+- 🚀 Passionate about building real-world technology solutions
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 ### Programming Languages
+
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Web Development
+### AI, Machine Learning & Data Analytics
+
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-### Data Science & Tools
+### Web Development & Databases
+
 <p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=django,mysql,sqlite" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## AI & Technical Expertise
 
-### 1. NetSentinel – Adaptive Graph-Based Network Threat Analysis
-**Python | Django | Data Structures & Algorithms | JSON**
-
-- Developed a graph-based network threat analysis system.
-- Implemented BFS and DFS traversal algorithms.
-- Built network data collection and anomaly detection features.
-- Integrated structured JSONL logging with a Django dashboard.
-
-🔗 **[View NetSentinel Repository](https://github.com/Aarya562/NetSentinel)**
-
-### 2. Underwater ROV – Ocean Observation Platform
-**Robotics | Embedded Systems | Sensors**
-
-- Worked on a low-cost underwater observation platform.
-- Focused on underwater monitoring and data collection.
-- Explored sensor integration and robotic system design.
-
-🔗 **[View Underwater ROV Repository](https://github.com/Aarya562/Underwater-ROV)**
-
-### 3. Crowd Density Monitoring & Prediction
-**Python | YOLOv8 | Django | Computer Vision**
-
-- Developed a crowd density monitoring system.
-- Used YOLOv8 for crowd classification.
-- Implemented crowd risk-level prediction.
-- Integrated real-time monitoring through a Django dashboard.
-
-🔗 **[View Crowd Monitoring Repository](https://github.com/Aarya562/crowd_monitoring)**
+| Domain | Skills & Focus |
+|:---|:---|
+| Machine Learning | Model development and prediction |
+| Computer Vision | Image processing and object detection |
+| Data Structures | Graphs, BFS and DFS |
+| Data Analytics | Data visualization and insights |
+| Web Development | Django and Python applications |
+| Robotics | Underwater ROV and embedded systems |
 
 ---
 
-## 🏆 Achievements
+## Featured Projects
 
-- 🥉 Secured 3rd place in a national-level hackathon at IIM Indore.
-- 🏅 Winner in various national and state-level project competitions.
-- 🚀 Participated in technical projects and innovation challenges.
+### 01. Underwater ROV – Underwater Robotics
+
+A low-cost underwater remotely operated vehicle project focused on underwater observation and exploration.
+
+**Technology Areas:** Robotics · Embedded Systems · Sensors · Python
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/Aarya562/Underwater-ROV)
+
+### 02. Crowd Density Monitoring & Prediction
+
+An AI-based project focused on identifying crowd density levels and supporting crowd-risk monitoring using computer vision.
+
+**Key Highlights**
+- YOLOv8-based crowd detection
+- Crowd density classification
+- Low and high crowd-risk identification
+- Django application integration
+
+**Technologies:** Python · YOLOv8 · Django · Machine Learning
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/Aarya562/crowd_monitoring)
+
+### 03. NetSentinel – Adaptive Graph-Based Network Threat Analysis
+
+An adaptive network threat analysis system using graph-based data structures to map network connections and detect suspicious activity.
+
+**Key Highlights**
+- BFS and DFS graph traversal algorithms
+- Real-time network data collection
+- Anomaly detection
+- Structured JSONL logging
+- Django web dashboard for monitoring and analysis
+
+**Technologies:** Python · Django · Data Structures & Algorithms · JSON
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/Aarya562/NetSentinel)
+
+### 04. E-commerce Web Application
+
+A web-based application developed for product browsing, user management and online shopping workflows.
+
+**Technologies:** Python · Django · HTML · CSS · SQL
 
 ---
 
-## 📜 Certifications
+## Experience
+
+### AI/ML Intern – ProWorld Technology, Nashik
+
+Worked on a project focused on **Crowd Density Prediction and Stampede Prediction**.
+
+- Explored computer vision approaches for crowd monitoring.
+- Worked on AI/ML project development.
+- Gained practical exposure to software and technology workflows.
+
+---
+
+## Achievements
+
+- 🥉 3rd Place – National-Level Hackathon at IIM Indore.
+- 🏆 Winner in various national and state-level project competitions.
+- 🤖 Developed projects in AI, Machine Learning and Robotics.
+- 🌊 Worked on an underwater ROV project.
+
+---
+
+## Certifications
 
 - HTML – Infosys Springboard
-- DBMS – Infosys Springboard
+- Database Management System – Infosys Springboard
 - C Programming – Infosys Springboard
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aarya562&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya562&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aarya562&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya562&layout=compact&theme=midnight-purple&hide_border=true" />
-
-<img width="90%" src="https://streak-stats.demolab.com?user=Aarya562&theme=midnight-purple&hide_border=true" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Aarya562">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aarya562&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+## Current Focus
 
-### ✨ Building. Learning. Innovating. ✨
+- Advancing Machine Learning and Computer Vision skills
+- Exploring Robotics and Embedded Systems
+- Building AI-powered applications
+- Improving software development skills
+- Developing practical technology solutions
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%" />
+---
 
-</div>
+<p align="center">
+  <b>Building ideas into intelligent solutions, one project at a time.</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:514A9D,100:9B8AFF&height=100&section=footer" width="100%" />
